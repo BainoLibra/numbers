@@ -17,5 +17,5 @@ console.log(descriptors)
 // console.log(descriptorss)
 
 // Object.getOwnPropertyDescriptors()
-const descript ={a:1, b:2, c:3}
+let descript ={a:1, b:2, c:3}
 console.log(Object.getOwnPropertyDescriptors(descript))
